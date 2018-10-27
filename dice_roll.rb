@@ -4,6 +4,6 @@
 
 def roll
   # code goes here
-  range (1..6)
+  range = 1..6
   rand
 end
